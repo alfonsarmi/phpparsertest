@@ -8,7 +8,7 @@ h1   {color: blue;}
 p    {color: red;} 
 </style>
  <script type="text/javascript">
-            function alerta() 
+            function alerta()  
 			{
                 alert('hola mundo!');
             }
